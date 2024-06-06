@@ -1,0 +1,51 @@
+export default [
+    {
+        id: 1,
+        name: "Jason",
+        description: "ex-management consultant. Quit his job to code and build",
+        Instagram: "@jason",
+        image: "Jason.png",
+    },
+    {
+        id: 2,
+        name: "Jack",
+        description: "ex-UN, ex-consultant who works at Financial Times",
+        Instagram: "@jack",
+        image: "Jack.png",
+    },
+    {
+        id: 3,
+        name: "David",
+        description: "Data analyst learning UI/UX",
+        Instagram: "@david",
+        image: "David.png",
+    }, 
+    {
+        id: 4,
+        name: "Elon Musk",
+        description: "CEO of SpaceX and Tesla. Visionary entrepreneur",
+        Instagram: "@elonmusk",
+        image: "ElonMusk.png",
+    },
+    {
+        id: 5,
+        name: "Jeff Bezos",
+        description: "Founder of Amazon and Blue Origin",
+        Instagram: "@jeffbezos",
+        image: "JeffBezos.png",
+    },
+    {
+        id: 6,
+        name: "Bill Gates",
+        description: "Co-founder of Microsoft and philanthropist",
+        Instagram: "@thisisbillgates",
+        image: "BillGates.png",
+    },
+    {
+        id: 7,
+        name: "Mark Zuckerberg",
+        description: "Co-founder and CEO of Facebook",
+        Instagram: "@zuck",
+        image: "MarkZuckerberg.png",
+    },
+]
